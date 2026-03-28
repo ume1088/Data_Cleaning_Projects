@@ -1,1 +1,24 @@
-# Data_Cleaning_Projects
+# Data Cleaning Projects
+
+Practicing data cleaning using Python and Pandas on real messy datasets.
+
+---
+
+## Projects
+
+| # | Project | Dataset | Key Problems Solved |
+|---|---|---|---|
+| 01 | [Cafe Sales Cleaning](./01_cafe_sales/) | Kaggle Cafe Sales | Missing values, ERROR/UNKNOWN, wrong data types |
+
+---
+
+## Tools
+Python | Pandas | NumPy | Matplotlib | Seaborn
+
+---
+
+## Author
+**Your Name**
+- LinkedIn: www.linkedin.com/in/ume-habiba-88313537b
+- GitHub: https://github.com/ume1088
+- gmail:  umehabiba1088@gmail.com
