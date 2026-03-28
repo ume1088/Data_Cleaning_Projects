@@ -36,8 +36,6 @@ Dataset contains 10,000 transactions with multiple data quality issues.
 pip install pandas numpy matplotlib seaborn
 jupyter notebook Customer_Analysis.ipynb
 ```
-```
-## Author
 
 ## Author
 
