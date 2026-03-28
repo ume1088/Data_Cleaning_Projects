@@ -18,7 +18,7 @@ Python | Pandas | NumPy | Matplotlib | Seaborn
 ---
 
 ## Author
-**Your Name**
+**Ume Habiba**
 - LinkedIn: www.linkedin.com/in/ume-habiba-88313537b
 - GitHub: https://github.com/ume1088
 - gmail:  umehabiba1088@gmail.com
