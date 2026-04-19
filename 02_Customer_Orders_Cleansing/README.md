@@ -37,7 +37,7 @@ customer-sales-cleansing/
 │
 ├── Orders.csv                  # Raw dataset
 ├── orders_cleaned.csv          # Final clean dataset
-├── cleaning_report.ipynb       # Full notebook with steps
+├── Customer_Sales_Cleansing.ipynb       # Full notebook with steps
 └── README.md
 ```
 
