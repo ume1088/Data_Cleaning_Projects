@@ -35,7 +35,7 @@ best practices.
 ```
 customer-sales-cleansing/
 │
-├── Orders.csv                  # Raw dataset
+├── Orders_dirty_dataset.csv                  # Raw dataset
 ├── orders_cleaned.csv          # Final clean dataset
 ├── Customer_Sales_Cleansing.ipynb       # Full notebook with steps
 └── README.md
