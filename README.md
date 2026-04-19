@@ -13,8 +13,8 @@ Practicing data cleaning using Python and Pandas on real messy datasets.
 
 ---
 
-## Tools
-Python | Pandas | NumPy | Matplotlib | Seaborn
+## 🛠️ Tools & Libraries
+Python | Pandas | NumPy | Regex | Jupyter Notebook
 
 ---
 
